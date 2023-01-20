@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Pepito",
+      "viewed": true,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Sultanito",
+      "viewed": true
+    },
+    {
+      "id": 3,
+      "name": "Peranito",
+      "viewed": false
+    }
+  ]
+}
